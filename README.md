@@ -1,8 +1,8 @@
 ## Olá, sou Miguel 👋
 
-- 🔭 almejo desenvolver I.A.'s
--  🌱 Atualmente estou aprendendo python
-- 📫 para entrar em contato comigo: mmiguelmmmofficial@gmail.com
+- 🔭 I aim to develop AI's
+- 🌱 I'm currently learning Python
+- 📫 contact me: mmiguelmmmofficial@gmail.com
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pymiguel)](https://github.com/anuraghazra/github-readme-stats)
 
