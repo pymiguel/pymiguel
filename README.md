@@ -1,6 +1,6 @@
 ## Olá, sou Miguel 👋
 
-- 🔭 I aim to improve my java skills
+- 🔭 I aiming to backend
 - 🌱 I'm currently learning Java
 - 📫 contact me: mmiguelmmmofficial@gmail.com
 
