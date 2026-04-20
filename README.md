@@ -1,6 +1,6 @@
 ## Olá, sou Miguel 👋
 
-- 🔭 I aim to develop AI's
+- 🔭 I aim to improve my java skills
 - 🌱 I'm currently learning Python
 - 📫 contact me: mmiguelmmmofficial@gmail.com
 
