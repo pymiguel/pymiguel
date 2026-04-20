@@ -1,7 +1,7 @@
 ## Olá, sou Miguel 👋
 
 - 🔭 I aim to improve my java skills
-- 🌱 I'm currently learning Python
+- 🌱 I'm currently learning Java
 - 📫 contact me: mmiguelmmmofficial@gmail.com
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pymiguel)](https://github.com/anuraghazra/github-readme-stats)
